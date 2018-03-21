@@ -3,6 +3,11 @@
 
 Fine.  I guess I'll do it.
 
+
+[![PDX Node Alexa talk](http://img.youtube.com/vi/DvS1mM5TGnM/0.jpg)](http://www.youtube.com/watch?v=DvS1mM5TGnM "Alexa, Give a Talk on How to Write a Skill - Craig Dennis")
+
+
+
 ----
 
 Here's my talk from the [PDXNode Meetup](https://www.meetup.com/pdxnode/messages/boards/thread/51177258)
