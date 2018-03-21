@@ -11,4 +11,4 @@ Links to the latest ramblings.
 ## Microcontrollers
 
 ### Adafruit Circuit Playground Express and [Microsoft MakeCode](https://makecode.adafruit.com)
-* [Lifelong Learning Hacks - #100DaysOfCode - IoT Edition](https://www.slideshare.net/CraigDennis3/lifelong-learning-hacks-100daysofcode-iot-edition)
+* [Lifelong Learning Hacks - #100DaysOfCode - IoT Edition](100days/jsot.md)
