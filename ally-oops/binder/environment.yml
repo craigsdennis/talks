@@ -1,0 +1,8 @@
+name: ally-oops-php
+channels:
+  - conda-forge
+dependencies:
+  - php
+  - zeromq
+  - php-zeromq
+  - jupyter-php
